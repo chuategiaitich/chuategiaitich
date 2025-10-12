@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is 'Minh Tuệ' and I'm a mechatronic engineering student</h2>
+<h2 align="left">Hi 👋! My name is 'Minh Tuệ' and I'm learning about mechatronic engineering</h2>
 
 ###
 
