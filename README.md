@@ -13,14 +13,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
   </a>
 
-###
-
-<img align="right" height="150" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
-<img align="center" height="150" src="https://fcit.usf.edu/matrix/wp-content/uploads/2017/01/DanceBot-3-Med.gif"  />
-<img align="left" height="150" src="https://cdn.dribbble.com/userupload/19469254/file/original-56b9de84340d5644271caceae32ad830.gif"  />
-
-###
-
 <br clear="both">
 
 <picture>
